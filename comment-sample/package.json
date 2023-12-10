@@ -17,8 +17,8 @@
 		"Other"
 	],
 	"activationEvents": [
-		"*"
-	],
+		"onCommentChanged"
+		],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [

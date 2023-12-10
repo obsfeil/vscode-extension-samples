@@ -6,5 +6,6 @@
 	"prettier.useTabs": true,
 	"java.classPath": [
 		"C:\\Program Files\\Java\\jre-1.8\\bin"
-	]
+	],
+	"python.analysis.typeCheckingMode": "basic"
 }

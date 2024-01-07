@@ -1,5 +1,6 @@
 {
 	"recommendations": [
-		"codeium.codeium"
+		"codeium.codeium",
+		"franneck94.c-cpp-runner"
 	]
 }
